@@ -1,4 +1,1 @@
-# hello-world
-Repository is used to practice Github
-
-This branch is used to just test knowledge on branching and commiting
+this is a practice repo, everything here is used to test the functionality of agents and understand how they work
